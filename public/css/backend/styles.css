@@ -1,0 +1,6 @@
+.nav-left .nav-item:hover{
+    background-color: white;
+}
+.nav-left .nav-item:hover .nav-link{
+    color: black!important;
+}

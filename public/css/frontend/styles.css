@@ -1,0 +1,24 @@
+body{
+    background-position: right;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.navbar-orange, .card-header{
+    background-color: #F27746;
+}
+.btn-orange{
+    background-color: #F27746;
+    color: white;
+}
+
+.card{margin-top : 50px;border: none;}
+
+.home .col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+img{
+    object-fit: contain;
+}
